@@ -22,6 +22,8 @@ Group repository: <https://github.com/NAU-OSS/CS499-Group01-SiteScribe>
 * Ryan Ladwig - [KennySprings4Life](https://github.com/KennySprings4Life)
 * Yuxuan Zhu - [xingkongzyx](https://github.com/xingkongzyx)
 
+Group repository: <https://github.com/NAU-OSS/CS499-Group03>
+
 ### Group 4
 * Student 1
 * Student 2

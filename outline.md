@@ -10,7 +10,7 @@ Check here in which class we need mediators and guarantee your extra points!!!
 | Sept 6 | Git and GitHub ([Slides](notes/Lecture_03.pdf))                                        |                                                              |
 | Sept 11 | Git and GitHub (continuing...)                       |                                                              |
 | Sept 13 | Git and GitHub / Code Review ([Slides](notes/Lecture_04.pdf))                          |                                                              |
-| Sept 18 | How to “create” an Open Source project                | **Pre-reading** ([Producing OSS Chapter 2](https://producingoss.com/en/getting-started.html)) |
+| Sept 18 | How to “create” an Open Source project ([Slides](notes/Lecture_05.pdf)                | **Pre-reading** ([Producing OSS Chapter 2](https://producingoss.com/en/getting-started.html)) |
 | Sept 20 | Licenses and Copyrights                               |                                                              |
 | Sept 25 | Time for code review (hands-on)                       |                                                              |
 | Sept 27 | OSS Technical Infrastructure                          | **Pre-reading** ([Producing OSS Chapter 3](https://producingoss.com/en/technical-infrastructure.html)) |
