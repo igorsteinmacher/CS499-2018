@@ -24,8 +24,8 @@ Check here in which class we need mediators and guarantee your extra points!!!
 | Oct 25  | Checkpoint 1!                                         |                                                              |
 | Oct 30  | Guest lecture (Filipe Saraiva): My history            |                                                              |
 | Nov 1   | Discussion (ii) *                                     | **<font color="red">Pre-reading </font>** (TBD)<br/>**<font color="red">Mediator (s) needed</font>** |
-| Nov 6   | Managing participants                                 | **Pre-reading** ([Producing OSS Chapter 8](https://producingoss.com/en/managing-participants.html)) |
-| Nov 8   | Code hour!                                            |                                                              |
+| Nov 6   | TBD                                                   |    |
+| Nov 8   | Code hour!                                            |  Come and code!!!                                                            |
 | Nov 13  | Discussion (iii) *                                    | **<font color="red">Pre-reading</font>** (TBD)<br/>**<font color="red">Mediator(s) needed</font>** |
 | Nov 15  | Checkpoint 2!                                         |                                                              |
 | Nov 20  | NAU Holiday                                           |                                                              |

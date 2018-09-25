@@ -25,6 +25,19 @@ Group repository: <https://github.com/NAU-OSS/CS499-Group01-SiteScribe>
 Group repository: <https://github.com/NAU-OSS/CS499-Group03>
 
 ### Group 4
-* Student 1
-* Student 2
-* Student 3
+* Morgan Lovato - [morganlovato](https://github.com/morganlovato)
+* Gwen Morris - [Oakheart27](https://github.com/Oakheart27)
+* Jasmine Mitchell - [jdm568](https://github.com/jdm568)
+
+### Group 5
+* Carli Martinez [cmartinez](https://github.com/csmartinez)
+* Miguel Quinones [MQuinones98](https://github.com/MQuinones98)
+* Melody Pressley [melod-y](https://github.com/melod-y)
+
+Group repository: <https://github.com/NAU-OSS/Group-5>
+
+### Group 6
+* Van Steinbrenner - [Suttungr](https://github.com/Suttungr)
+* Claudia Coronel  -[clawss](https://github.com/clawss)
+* Madi Boman
+* Hyungi Choi

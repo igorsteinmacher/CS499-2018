@@ -12,8 +12,9 @@ The first step towards that end is choosing a project. There are a couple of the
 
 * [Jabref ](http://www.github.com/Jabref/Jabref) - Citation Manager. Mainly developed in Java
 * [KDE Cantor](https://edu.kde.org/cantor/) - Music Education project. Mainly developed in C++ and Qt/QML
+* [FluxPuppy](https://github.com/bnasr/FluxPuppy) - NAU developed Android (Java) software to work with Licor 820 and 840 CO2 measurement devices. The software will be of great interests to the ecology community.
+* [phenoRemote](https://github.com/katharynduffy/phenoRemote) - An Open Shiny(R) interface project that integrates Phenocam & remotely sensed data products (developer at NAU)
 
-You can also choose  a project of your interest. In this case, I will need to approve your choice. Some of the projects are hosted outside GitHub (it is OK. to choose them as well)
 
 At the end of the term, it is expected that you have one or more contributions submitted, peer-evaluated (in classroom), reviewed by project members, and accepted. Here are overall steps and dates (more details to come).
 
