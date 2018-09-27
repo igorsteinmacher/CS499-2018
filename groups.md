@@ -22,7 +22,7 @@ Group repository: <https://github.com/NAU-OSS/CS499-Group01-SiteScribe>
 * Ryan Ladwig - [KennySprings4Life](https://github.com/KennySprings4Life)
 * Yuxuan Zhu - [xingkongzyx](https://github.com/xingkongzyx)
 
-Group repository: <https://github.com/NAU-OSS/CS499-Group03>
+Group repository: <https://github.com/NAU-OSS/CS499_Group_3>
 
 ### Group 4
 * Morgan Lovato - [morganlovato](https://github.com/morganlovato)
