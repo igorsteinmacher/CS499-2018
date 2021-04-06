@@ -10,8 +10,6 @@ You are expected to create an open source project. You can just imagine somethin
 
 You will be evaluated taking into consideration how adherent you project is with what is presented by Fogel and opensource.guide. The content of the pages created will be evaluated as essays. 
 
-Please, submit a document to BBLearn contaning the analysis for item 1, and a link to the project created on item 2. 
-
 **YOU WILL NOT BE EVALUATED IF YOU DO NOT PROVIDE THE LINK IN THE DOCUMENT SUBMITTED VIA BBLEARN**
 
 [1] https://producingoss.com/en/getting-started.html
