@@ -6,7 +6,7 @@
 
 **Office Hours**: MWF 09:00-10:00 AM; Room 090-115. 
 
-**SLACK:** Please hangout, discuss, create channels for specific groups and issues. [Click here](https://join.slack.com/t/cs499-2020/shared_invite/zt-gf8i3aeb-pNWSNYY9BqUXw70v0NEgbw) to join the course Slack 
+**SLACK:** Please hangout, discuss, create channels for specific groups and issues. 
 
 ## Groups
 
