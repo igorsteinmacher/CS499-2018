@@ -1,30 +1,37 @@
-|     Tópico/ Data          |           |                                                                                |     Entrega (deadline)               |     Novo trabalho                     |     Artigos para resumo (Mestrado)    |
-|---------------------------|-----------|--------------------------------------------------------------------------------|--------------------------------------|---------------------------------------|---------------------------------------|
-|     OSS 101: só começando | 18-Feb-21 |     Welcome!                                                                   |                                      |                                       |                                       |
-|                           | 23-Feb-21 |     OSS Basics: Open Source: What is it?!?                                     |                                      |                                       |                                       |
-|                           | 25-Feb-21 | ** Como montar um negócio baseado em SL?                                       |                                      |                                       |                                       |
-|                           | 2-Mar-21  |     OSS Basics: History and reasons                                            |                                      | Contribuição para o Wikipedia         |                                       |
-|                           | 4-Mar-21  | ** Atividade Catedral e o Bazar                                                |                                      |                                       |                                       |
-|     Infraestrutura        | 9-Mar-21  |     OSS Infrastructure: Git and GitHub                                         | Contribuição para o Wikipedia        | Lidando com o Git                     |                                       |
-|                           | 11-Mar-21 | ** Atividade Lidando com Git                                                   |                                      |                                       |                                       |
-|                           | 16-Mar-21 |     OSS Infrastructure: Code Review                                            |                                      |     Pull Request/Code Review Activity |     Artigo 1                          |
-|                           | 18-Mar-21 | ** Code review                                                                 |                                      |                                       |                                       |
-| Criar um projeto SL       | 23-Mar-21 |     Creating an OSS project                                                    |     Pull Request/Code Review         | Criar projeto + Escolher licença      |                                       |
-|                           | 25-Mar-21 | ** Pesquisar sobre   Integração Continua e criar uma instancia para um projeto |                                      |                                       |                                       |
-| Contribuindo pra SL       | 30-Mar-21 | Contributing to OSS projects                                                   |                                      |     Contribuição para OSS!!           |                                       |
-|                           | 1-Apr-21  | ** Pesquisa sobre licenças                                                     |                                      |                                       |                                       |
-| Governcança               | 6-Apr-21  | OSS governance / social infrastructure                                         |     Criar projeto + Escolher licença |                                       |        Artigo 2                       |
-|                           | 8-Apr-21  | ** Escolha do projeto: criar video apresentacao                                | Contribuição (Checkpoint 0)          |                                       |                                       |
-|     Tópicos quentes!      | 13-Apr-21 | Licenças e problemas                                                           |                                      |                                       |                                       |
-|                           | 15-Apr-21 |                                                                                |                                      |                                       |                                       |
-| HANDS ON!                 | 20-Apr-21 |                                                                                | Contribuição (Checkpoint 1)          |                                       |                                       |
-|                           | 22-Apr-21 |                                                                                |                                      |                                       |                                       |
-|     Tópicos quentes!      | 27-Apr-21 | Diversity in OSS                                                               |                                      |                                       |        Artigo 3                       |
-|                           | 29-Apr-21 |                                                                                |                                      |                                       |                                       |
-|     HANDS ON!             | 4-May-21  |                                                                                | Contribuição (Checkpoint 2)          |                                       |                                       |
-|                           | 6-May-21  |                                                                                |                                      |                                       |                                       |
-|     Tópicos quentes!      | 11-May-21 |     Bots and GitHub                                                            |                                      |                                       |                                       |
-|                           | 13-May-21 |                                                                                |                                      |                                       |                                       |
-|                           | 18-May-21 |     Apresentação Final                                                         |     Apresentação Final               |                                       |     Artigo 4                          |
-|                           | 20-May-21 |     Apresentação Final                                                         |                                      |                                       |                                       |
-|                           | 25-May-21 |     Debriefing                                                                 |                                      |                                       |                                       |
+# Class Outline
+
+Check here in which class we need mediators and guarantee your extra points!!!
+
+| Date    | Content                                               | Pre-reading / volunteer requirement                          |
+| ------- | ------------------------------------------------ | ------------------------------------------------------------ |
+| Aug 28  | Introductions ([Slides](notes/Lecture_01.pdf))   |                                                              |
+| Aug 30  | Open Source: what it is and what it is not<br>History of Open Source  ([Slides](notes/Lecture_02.pdf))     |                                                              |
+| Sept 4  | Discussion: The Cathedral and The Bazaar         | **<font color="red">Pre-reading assignment</font>** ([The cathedral and the bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/))<br>**<font color="red">Mediator (s) needed</font>** |
+| Sept 6 | Git and GitHub ([Slides](notes/Lecture_03.pdf))   |                                                              |
+| Sept 11 | Git and GitHub (continuing...)                   |                                                              |
+| Sept 13 | Git and GitHub / Code Review ([Slides](notes/Lecture_04.pdf))                             |                                                              |
+| Sept 18 | How to “create” an Open Source project([Slides](notes/Lecture_05.pdf))                             | **Pre-reading** ([Producing OSS Chapter 2](https://producingoss.com/en/getting-started.html)) |
+| Sept 20 | Licenses and Copyrights ([Slides](notes/Lecture_06.pdf))                             |                                                              |
+| Sept 25 | Time for code review (hands-on)                  |                                                              |
+| Sept 27 | Contributing to Open Source projects ([Slides](notes/Lecture_07.pdf))                             | **Pre-reading** [Paper 1](http://www.igor.pro.br/publica/papers/IEEESoft_2018.pdf) - [Paper2](http://www.igor.pro.br/publica/papers/2014SBES.pdf) |
+| Oct 2   | Contributing to Open Source projects             | **Pre-reading** [Paper 1](http://www.igor.pro.br/publica/papers/IEEESoft_2018.pdf) - [Paper2](http://www.igor.pro.br/publica/papers/2014SBES.pdf) |
+| Oct 4   | Information about the contribution assignment    |                                                              |
+| Oct 9   | Contribution project presentations               |                                                              |
+| Oct 11  | Continuous Integration (Prof. Toby Hocking)      |                                                              |
+| Oct 16  | OSS governance / social infrastructure ([Slides](notes/Lecture_08.pptx))               | **Pre-reading desired** ([Producing OSS Chapter 4](https://producingoss.com/en/social-infrastructure.html))|
+| Oct 18  | Invited Talk (TBD)                               |                                                              |
+| Oct 23  | Discussion (i) *                                 | **<font color="red">Pre-reading assignment</font>**(TBD)<br>**<font color="red">Mediator(s) needed</font>** |
+| Oct 25  | Checkpoint 1!                                    |                                                              |
+| Oct 30  | Guest lecture (Filipe Saraiva): My history       |                                                              |
+| Nov 1   | Discussion (ii) *                                | **<font color="red">Pre-reading </font>** (TBD)<br/>**<font color="red">Mediator (s) needed</font>** |
+| Nov 6   | Google Summer of Code (Prof. Toby Hocking)       |                                                              |
+| Nov 8   | Code hour!                                       |  Come and code!!!                                            |
+| Nov 13  | Discussion (iii) *                               | **<font color="red">Pre-reading</font>** (TBD)<br/>**<font color="red">Mediator(s) needed</font>** |
+| Nov 15  | Checkpoint 2!                                    |                                                              |
+| Nov 20  | Code Time!                                       |                                                              |
+| Nov 22  | NAU HOLIDAY                                      |                                                              |
+| Nov 27  | Code hour!                                       |                                                              |
+| Nov 29  | Last minute work on projects                     |                                                              |
+| Dec 4   | Invited Lecture: Gustavo Pinto                   |                                                              |
+| Dec 6   | Checkpoint 3! Final date for submission          |                                                              |
+| Dec 13  | Final date to submit the contribution process summary | Deliverable – Summary of the contribution process (I recommend to be written on-the-fly to avoid forgetting things) |
